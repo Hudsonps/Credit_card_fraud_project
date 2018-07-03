@@ -1,2 +1,3 @@
-# Credit_card_fraud_project
-Project on a credit card imbalanced dataset obtained through Kaggle.
+# Credit card fraud project
+
+This is a small project on a credit card imbalanced dataset obtained through Kaggle.
